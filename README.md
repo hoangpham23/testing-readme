@@ -39,6 +39,7 @@ Prerequisites
 
 **2. Configure application properties**
 - Update src/main/resources/application.properties with your database, email and other services configurations.
+
 **3. Build and run the backend application**
         
 ```bash
